@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [基于Docker 5分钟搭建携程Apollo分布式配置中心](https://blog.lupf.cn/articles/2019/11/16/1573908705297.html)
+* [CentOS 7下安装Docker及基础操作](https://blog.lupf.cn/articles/2019/11/16/1573896114527.html)
+* [git subtree使用说明](https://blog.lupf.cn/articles/2019/11/16/1573890420632.html)
 * [基于Docker搭建百度Disconf配置中心](https://blog.lupf.cn/articles/2019/11/10/1573361443261.html)
 * [LVS+KeepAlived+Nginx高可用实现方案](https://blog.lupf.cn/articles/2019/10/25/1572009910207.html)
 * [我在 GitHub 上的开源项目](https://blog.lupf.cn/my-github-repos)
