@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [SpringBoot集成Apollo配置中心（5分钟集成系列）](https://blog.lupf.cn/articles/2019/11/19/1574169822114.html)
 * [基于Docker 5分钟搭建携程Apollo分布式配置中心](https://blog.lupf.cn/articles/2019/11/16/1573908705297.html)
 * [CentOS 7下安装Docker及基础操作](https://blog.lupf.cn/articles/2019/11/16/1573896114527.html)
 * [git subtree使用说明](https://blog.lupf.cn/articles/2019/11/16/1573890420632.html)
