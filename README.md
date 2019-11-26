@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [java设计模式之代理模式](https://blog.lupf.cn/articles/2019/11/26/1574738464079.html)
 * [通过kubeadm搭建Kubernetes(1.16.0版本)集群环境](https://blog.lupf.cn/articles/2019/11/23/1574512937074.html)
 * [CentOS 7下安装Docker及基础操作](https://blog.lupf.cn/articles/2019/11/23/1574503815568.html)
 * [Linux下Netty导致Redis连接失败的问题java.lang.NoSuchMethodError: io.netty.channel.SingleThreadEventLoop.<init>](https://blog.lupf.cn/articles/2019/11/21/1574319219347.html)
